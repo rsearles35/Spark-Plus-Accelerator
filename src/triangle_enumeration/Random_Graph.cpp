@@ -1,3 +1,5 @@
+// Author: Travis Johnston
+
 #include<iostream>
 #include<fstream>
 #include<time.h>
@@ -53,7 +55,6 @@ int main(int argc, char** argv){
 		fout << "\n";
 	}
 	fout.close();
-	
+
 	return 0;
 }
-
