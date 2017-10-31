@@ -1,5 +1,5 @@
 # Spark+Accelerator
-Code repository for graph analytics work utilizing Spark+GPU. The subdirectories "WACCPD" and "IJHPCN" contain all source code and data used for the corresponding publications listed below.
+Code repository for graph analytics work utilizing Spark+Accelerator. The subdirectories "WACCPD" and "IJHPCN" contain all source code and data used for the corresponding publications listed below.
 # Citation Information
 ## WACCPD
 Robert Searles\*, Stephen Herbein\*, and Sunita Chandrasekaran. A Portable, High-Level Graph Analytics Framework Targeting Distributed, Heterogeneous Systems. In IEEE Proceedings of third Workshop on Accelerator Programming Using Directives (WACCPD), pp. 79-88, Salt Lake City, UT, November 2016.
