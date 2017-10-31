@@ -1,4 +1,4 @@
-# WACCPD-2016
+# Spark+Accelerator
 Code repository for graph analytics work utilizing Spark+GPU. The subdirectories "WACCPD" and "IJHPCN" contain all source code and data used for the corresponding publications listed below.
 # Citation Information
 ## WACCPD
