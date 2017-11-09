@@ -16,10 +16,12 @@ Robert Searles\*, Stephen Herbein\*, and Sunita Chandrasekaran. A Portable, High
 ## IJHPCN
 Robert Searles, Stephen Herbein, Travis Johnston, Michela Taufer, Sunita Chandrasekaran. Creating a Portable, High-Level Graph Analytics Paradigm For Compute and Data-Intensive Applications. In the International Journal of High Performance Computing and Networking (IJHPCN), IJHPCN 2017 Vol. 10, January 2017. DOI: 10.1504/IJHPCN.2017.10007922
 ```
-@inproceedings{searles2017portable,
- title={Creating a Portable, High-Level Graph Analytics Paradigm For Compute and Data-Intensive Applications},
- author={Searles, Robert and Herbein, Stephen and Johnston, Travis and Taufer, Michela and Chandrasekaran, Sunita},
- booktitle={International Journal of High Performance Computing and Networking},
- year={2017}
-}
+@INPROCEEDINGS{searles2017portable, 
+author={Searles, Robert and Herbein, Stephen and Johnston, Travis and Taufer, Michela and Chandrasekaran, Sunita}, 
+booktitle={International Journal of High Performance Computing and Networking}, 
+title={Creating a Portable, High-Level Graph Analytics Paradigm For Compute and Data-Intensive Applications}, 
+year={2017}, 
+volume={10},  
+doi={10.1504/IJHPCN.2017.10007922}, 
+month={Jan},}
 ```
